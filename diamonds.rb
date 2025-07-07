@@ -2,7 +2,7 @@ class Diamonds < Formula
   desc "Terminal project color and URL manager"
   homepage "https://github.com/lynn-twinkl/diamonds"
   url "https://github.com/lynn-twinkl/diamonds/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "38dffc68f05d1dfe8db7061c9ee1fddc215144f64b64efdd2c7f63cf8b3c3aa4"
+  sha256 "bfa85e8277d874611e6e7c84d2cdf737400204e21112c8bdd5b743e1a7a66355"
   license "MIT"
 
   depends_on "go" => :build
